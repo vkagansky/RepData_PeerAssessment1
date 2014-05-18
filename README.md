@@ -1,7 +1,9 @@
 ## Introduction
 
-Important:
-There is a Repreducable Resarach Peet Assessment PDF file - pdf version of the HHTML output.  If something is wrong with HTML, clease look at pdf.: 
+### Important:
+
+#### 1.There is a Repreducable Resarach Peet Assessment PDF file - pdf version of the HHTML output.  If something is wrong with HTML, clease look at pdf
+#### 2. The graphs are located in the figure directory
 
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
